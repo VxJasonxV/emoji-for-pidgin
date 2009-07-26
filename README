@@ -9,8 +9,10 @@ If you're reading this on GitHub, I highly suggest you use the download feature 
 
 = Who made this?
 
-Karl Fischer apparently made this pack originally and uploaded it to http://developer.pidgin.im/wiki/ThirdPartySmileyThemes
-I, Jason Salaz, took the pack, and added in the unicode characters as inserted when using the iPhone, making this pack exactly 19028509484% cooler. I left the meta-emoticon characters (e.g. :boy: :girl: etc.) in, so other people can still have a method of entering them in plainly without entering in a raw unicode code point.
+* The images were apparently taken directly from the iPhone, which is exemplified by the fact that this emoji pack features two images of the iPhone, and is the exact contents of the Emoji 'keyboard' Input Method on the iPhone.
+* The pack was originally designed as an "Adium Xtra" by Karl "Kalleboo" Baron ( http://www.adiumxtras.com/index.php?a=xtras&xtra_id=6224 ).
+* The emoji pack was then ported to Pidgin by Karl "kmf" Fischer ( http://developer.pidgin.im/attachment/wiki/ThirdPartySmileyThemes/Emoji-for-Pidgin.tar.gz ).
+* I, Jason Salaz, took the pack, and added in the raw unicode characters as inserted when using the iPhone, making this pack exactly 19028509484% cooler. I left the meta-emoticon characters (e.g. :boy: :girl: etc.) in, so other people can still have a method of entering them directly via any old keyboard, and not being forced to enter in a raw unicode code point.
 
 = Why?
 
