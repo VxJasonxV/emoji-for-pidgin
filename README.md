@@ -1,3 +1,7 @@
+This pack is ancient. It can be used but will be missing lots of Emoji mappings. It knows nothing about Flags, Skin Tones, anything ZWJ related, those are probably out of scope for a 1:1 unicode codepoint character package anyway. It will not be updated from me. If this is still linked from the Pidgin wiki or wherever else, it should be removed.
+
+YMMV, caveat emptor, etc.
+
 Don't know how to install this pack?
 ====================================
 
